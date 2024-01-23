@@ -1,6 +1,6 @@
 @font-face {
     font-family: Pokemon;
-    src: url(https://static-server-xi.vercel.app/pokedexB/fonts/PokemonSolid.ttf);
+    src: url('https://static-server-xi.vercel.app/pokedexB/fonts/PokemonSolid.ttf');
     font-weight: 400;
 }
 
