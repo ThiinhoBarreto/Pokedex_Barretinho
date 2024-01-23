@@ -25,6 +25,8 @@ header {
     width: 100vw;
     height: 100px;
     background-color: #ec0505;
+    display: flex;
+    align-items: center;
 }
 
 h1 {
